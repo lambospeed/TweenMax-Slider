@@ -1,6 +1,4 @@
 # A basic Tween slideshow
-Create amazing fullpage:
-* **[See live example.](https://mverissimo.github.io/tweenslideshow/)**
 
 ## Installation
 ###Step 1: Link required files
@@ -127,7 +125,3 @@ Everyone is welcome to help [contribute](CONTRIBUTING.md) and improve this proje
 ### Version BETA
 
 **I create this fullpage for study, sorry for any bugs, contribute with this repo. Thank's enjoy! **
-
-### License:
-
-This boilerplate is free and open source software, distributed under the The MIT License. So feel free to use this to create your site without linking back to me or using a disclaimer.
